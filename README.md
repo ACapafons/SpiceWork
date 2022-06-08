@@ -9,6 +9,7 @@ Una vez nos registramos,nos iremos al apartado de "Tools & Apps" y descargamos l
 ![2](https://user-images.githubusercontent.com/90779690/172597482-f98867db-7bde-48cb-be45-b79778508044.png)
 
 Esperamos que la aplicacón se descargue e iniciamos la instalación.
+
 ![3](https://user-images.githubusercontent.com/90779690/172597484-0c333275-74ce-4e4d-8d1c-776d5bb528b9.png)
 
 Continuamos los pasos de la instalación, en este caso asignamos la instalación del servidor en el puerto 80.
