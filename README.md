@@ -1,6 +1,6 @@
 # SpiceWork
 
-##Instalación, uso y configuración de la herramienta Spicework, también veremos la creación, gestión de tickets o reportes.
+## Instalación, uso y configuración de la herramienta Spicework, también veremos la creación, gestión de tickets o reportes.
 
 ![1](https://user-images.githubusercontent.com/90779690/172597474-ed8de519-89cf-4ca2-9281-cddcddf76f71.png)
 
