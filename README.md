@@ -2,18 +2,26 @@
 
 ## Instalación, uso y configuración de la herramienta Spicework, también veremos la creación, gestión de tickets o reportes.
 
+
 Lo primero será ir a la página principal de spicework para registrarnos y descargar la aplicaión de escritorio.
+
 ![1](https://user-images.githubusercontent.com/90779690/172597474-ed8de519-89cf-4ca2-9281-cddcddf76f71.png)
 
+
 Una vez nos registramos,nos iremos al apartado de "Tools & Apps" y descargamos la aplicación "help desktop".
+
 ![2](https://user-images.githubusercontent.com/90779690/172597482-f98867db-7bde-48cb-be45-b79778508044.png)
+
 
 Esperamos que la aplicacón se descargue e iniciamos la instalación.
 
 ![3](https://user-images.githubusercontent.com/90779690/172597484-0c333275-74ce-4e4d-8d1c-776d5bb528b9.png)
 
+
 Continuamos los pasos de la instalación, en este caso asignamos la instalación del servidor en el puerto 80.
+
 ![4](https://user-images.githubusercontent.com/90779690/172597485-e810328a-6edb-4251-ac3e-dd5c9b1a6359.png)
+
 
 Marcamos la casilla de la insalacion de los componentes NMap y del WinPCap.
 - El Nmap, nos permitirá obtener una gran cantidad de información sobre los equipos de nuestra red, es capaz de escanear qué hosts están levantados, e incluso comprobar si tienen algún puerto abierto, si están filtrando los puertos (tienen un firewall activado).
@@ -22,11 +30,15 @@ Marcamos la casilla de la insalacion de los componentes NMap y del WinPCap.
 
 ![5](https://user-images.githubusercontent.com/90779690/172597490-95696fa8-8c07-4c34-9978-375c0c57f6ef.png)
 
+
 Escogemos la ruta en la cual queremos realizar la instalación.
+
 ![6](https://user-images.githubusercontent.com/90779690/172597491-e18fb61f-f7c8-4be5-9462-b1f44d0f76b6.png)
 
 Ya solo nos queda esperar que la instalación termine, esto puede tardar unos minutos.
+
 ![7](https://user-images.githubusercontent.com/90779690/172597492-4c16c6b7-fc3e-4865-91dc-c84b351858d9.png)
+
 
 ![8](https://user-images.githubusercontent.com/90779690/172597496-ea24a2c7-6408-4464-84b0-844e5c52cf6d.png)
 
