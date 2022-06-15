@@ -80,3 +80,5 @@ Alli se mostraria el Ticket creado, vemos el noombre de nuestro usuario.
 
 ![17](https://user-images.githubusercontent.com/90779690/172597519-76207508-b570-4b3b-8086-527d83ca04b5.png)
 
+![18](https://user-images.githubusercontent.com/90779690/173803694-d5339d16-7af0-43c3-b976-38a701b00471.png)
+
