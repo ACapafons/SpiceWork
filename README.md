@@ -72,6 +72,8 @@ Y una vez creado la notificacion nos llegara al escritorio.
 
 ![14](https://user-images.githubusercontent.com/90779690/172597514-ad656cbd-4519-41c6-a845-e76563ca7065.png)
 
+Alli se mostraria el Ticket creado, vemos el noombre de nuestro usuario.
+
 ![15](https://user-images.githubusercontent.com/90779690/172597516-e92c5c50-3a2e-4cad-8bae-701f38bc855b.png)
 
 ![16](https://user-images.githubusercontent.com/90779690/172597518-300230a5-a650-4329-9d63-50fdb8afdff0.png)
