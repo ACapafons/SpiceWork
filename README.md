@@ -47,12 +47,16 @@ Como en el paso anterior activamos la opción de iniciar Spicework, nos llevará
 
 ![9](https://user-images.githubusercontent.com/90779690/172597498-234f18cb-8fa7-4365-9c2f-2b62cc04aa84.png)
 
-Una vez que fargó, nos saldria Usuario y contraseña que hemos crado anteriormente en Spicework.
+Una vez que finaliza la carga, nos saldría Usuario y Contraseña que hemos crado anteriormente en Spicework.
 Como es el primer acceso o la primera vez que entramos, nos pedirá una serie de datos para el uso de la aplicación.
 
 ![10](https://user-images.githubusercontent.com/90779690/172597501-3c17e824-ca92-4f43-9931-722cb04c26fc.png)
 
+Aquí introducimos los datos y rellenamos la información que nos pide y entramos a la página de Spicewirk, en este caso a nuestro perfil.
+
 ![11](https://user-images.githubusercontent.com/90779690/172597506-24ab022e-97c9-4bb6-92f4-839dc473c5e2.png)
+
+Ahora 
 
 ![12](https://user-images.githubusercontent.com/90779690/172597508-3dc8f27d-b6ff-47e3-b4e0-5885a32ad848.png)
 
