@@ -56,9 +56,11 @@ Aquí introducimos los datos y rellenamos la información que nos pide y entramo
 
 ![11](https://user-images.githubusercontent.com/90779690/172597506-24ab022e-97c9-4bb6-92f4-839dc473c5e2.png)
 
-Ahora 
+Ahora entramos en nuestro perfil y ya estariamos en la pagina principal de Spiceworks. 
 
 ![12](https://user-images.githubusercontent.com/90779690/172597508-3dc8f27d-b6ff-47e3-b4e0-5885a32ad848.png)
+
+Crearemmos un "Ticket" nuevo donde su funcion es avisar, reportar o responder a varias incidencias.
 
 ![13](https://user-images.githubusercontent.com/90779690/172597510-8e9babfa-5d5d-4893-a2e8-775349eb8923.png)
 
