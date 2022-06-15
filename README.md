@@ -62,6 +62,9 @@ Ahora entramos en nuestro perfil y ya estariamos en la pagina principal de Spice
 
 Crearemmos un "Ticket" nuevo donde su funcion es avisar, reportar o responder a varias incidencias.
 
+![Capture](https://user-images.githubusercontent.com/104896936/173801581-3de21428-69ee-4a00-826e-4e910072002d.PNG)
+
+
 ![13](https://user-images.githubusercontent.com/90779690/172597510-8e9babfa-5d5d-4893-a2e8-775349eb8923.png)
 
 ![14](https://user-images.githubusercontent.com/90779690/172597514-ad656cbd-4519-41c6-a845-e76563ca7065.png)
