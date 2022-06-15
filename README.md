@@ -39,10 +39,16 @@ Ya solo nos queda esperar que la instalación termine, esto puede tardar unos mi
 
 ![7](https://user-images.githubusercontent.com/90779690/172597492-4c16c6b7-fc3e-4865-91dc-c84b351858d9.png)
 
+Una vez que la instlacion ha concluido, nos preguntara si queremos intalar un acceso directo en el escritorio y si queremos iniciar Spicework.
 
 ![8](https://user-images.githubusercontent.com/90779690/172597496-ea24a2c7-6408-4464-84b0-844e5c52cf6d.png)
 
+Como en el paso anterior activamos la opción de iniciar Spicework, nos llevará a la pagina del servicio.
+
 ![9](https://user-images.githubusercontent.com/90779690/172597498-234f18cb-8fa7-4365-9c2f-2b62cc04aa84.png)
+
+Una vez que fargó, nos saldria Usuario y contraseña que hemos crado anteriormente en Spicework.
+Como es el primer acceso o la primera vez que entramos, nos pedirá una serie de datos para el uso de la aplicación.
 
 ![10](https://user-images.githubusercontent.com/90779690/172597501-3c17e824-ca92-4f43-9931-722cb04c26fc.png)
 
