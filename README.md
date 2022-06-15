@@ -87,9 +87,20 @@ Probamos desde el correo del **cliente** a enviar un correo reportando la resolu
 
 ![18](https://user-images.githubusercontent.com/90779690/173804802-489a859a-1e14-4364-a600-1b559d526f2d.png)
 
+
+
 ![19](https://user-images.githubusercontent.com/90779690/173945051-a3fb8775-2469-4412-9b46-ae75ee6f3b32.png)
+
+
+
 ![20](https://user-images.githubusercontent.com/90779690/173945066-77df4e2f-09a5-4037-aba5-82379f04ee44.png)
-![21](https://user-images.githubusercontent.com/90779690/173945076-e1672c06-540c-4880-9a7d-10c0c8d3688f.png)
+
+
+
+![21](https://user-images.githubusercontent.com/90779690/173946724-5bf8f5aa-a020-4c71-b30c-5f22627abf65.png)
+
+
+
 ![22](https://user-images.githubusercontent.com/90779690/173945084-831859ce-915d-4830-af69-aedd1cedfc37.png)
 
 
