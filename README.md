@@ -76,9 +76,11 @@ Alli se mostraria el Ticket creado, vemos el noombre de nuestro usuario.
 
 ![15](https://user-images.githubusercontent.com/90779690/172597516-e92c5c50-3a2e-4cad-8bae-701f38bc855b.png)
 
+Ahora pasariamos a configurar el aviso de reportes mediante el correo para que nos sea mejor de que podamos avisar o que nos avisen de reporte de errores o cualquier problema con el servidor que estemos monitorizando, ya que esta aplicacion tiene muchas herramienta y una de ellas es monitorizacion de equipos de un empresa aunque aqui no estamos viendo la monitorizacion sino la creacion de **Tickets**.
+
 ![16](https://user-images.githubusercontent.com/90779690/172597518-300230a5-a650-4329-9d63-50fdb8afdff0.png)
 
-![17](https://user-images.githubusercontent.com/90779690/172597519-76207508-b570-4b3b-8086-527d83ca04b5.png)
+Nos dio un error por poner los email equivocados pero ya esta resuelto ya que necesitas tu email y el email del cliente al que vas a contestar o enviar reportes (ponemos por defecto el protocolo **POP**)
 
-![18](https://user-images.githubusercontent.com/90779690/173803694-d5339d16-7af0-43c3-b976-38a701b00471.png)
+![17](https://user-images.githubusercontent.com/90779690/172597519-76207508-b570-4b3b-8086-527d83ca04b5.png)
 
