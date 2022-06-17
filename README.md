@@ -2,9 +2,9 @@
 
 ## Instalación, Uso y Configuración de la Herramienta Spicework, también veremos la Creación, gestión de Tickets o Reportes.
 
-
+```
 Lo primero será ir a la página principal de **Spicework** para registrarnos y descargar la aplicaión de escritorio.
-
+```
 ![1](https://user-images.githubusercontent.com/90779690/172597474-ed8de519-89cf-4ca2-9281-cddcddf76f71.png)
 
 
@@ -87,14 +87,14 @@ Probamos desde el correo del **cliente** a enviar un correo reportando la resolu
 
 ![18](https://user-images.githubusercontent.com/90779690/173804802-489a859a-1e14-4364-a600-1b559d526f2d.png)
 
+Como vemos nos llegaria correctamente el reporte a la base de datos de Spiceworks donde nos salen todos los reportes asociados a nuestro perfil o espacio mediante tickets.
 
 ![19](https://user-images.githubusercontent.com/90779690/173945051-a3fb8775-2469-4412-9b46-ae75ee6f3b32.png)
 
+Nosotros buscariamos la averia o simplemente avisariamos de la correccion del problema mediante un reporte a la empresa ya sea mediante ticket para email etc.
 
 ![20](https://user-images.githubusercontent.com/90779690/173945066-77df4e2f-09a5-4037-aba5-82379f04ee44.png)
 
-
+Finalmente como veriamos se nos queda un resguardo del principio de la incidencia con el reporte de la empresa reportando la averia y el reporte del soporte tecnico avisando de la resolucion del problema a la empresa.
 ![21](https://user-images.githubusercontent.com/90779690/173946724-5bf8f5aa-a020-4c71-b30c-5f22627abf65.png)
-
-
 ![22](https://user-images.githubusercontent.com/90779690/173945084-831859ce-915d-4830-af69-aedd1cedfc37.png)
