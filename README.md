@@ -2,9 +2,8 @@
 
 ## Instalación, Uso y Configuración de la Herramienta Spicework, también veremos la Creación, gestión de Tickets o Reportes.
 
-```
 Lo primero será ir a la página principal de **Spicework** para registrarnos y descargar la aplicaión de escritorio.
-```
+
 ![1](https://user-images.githubusercontent.com/90779690/172597474-ed8de519-89cf-4ca2-9281-cddcddf76f71.png)
 
 
