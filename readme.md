@@ -1,5 +1,15 @@
 # SpiceWork
 
+## ¿Qué es Spiceworks?
+Spiceworks IT Help Desk está diseñado específicamente para profesionales de TI, tiene exactamente lo que necesitas para dirigir un mejor servicio técnico de TI interno y un mejor negocio. Comienza a abordar los tickets en minutos con el software de ayuda gratuito (en tu servidor o en la nube). Además, es más que un simple seguimiento de tickets: comprende (¡y cambia!) el comportamiento del equipo y articula tu valor para el negocio. ¡Consíguelo gratis hoy!
+
+## ¿Quién usa Spiceworks?
+¡Profesionales de TI! No hay nada mejor que hacer la vida del personal de TI más fácil. No importa si eres un CTO, gerente de TI, especialista en soporte de TI o administrador de sistemas: Spiceworks tiene algo para ti.
+
+## ¿Dónde se puede implementar Spiceworks?
+Cloud, SaaS, Web, Windows (desktop), Windows (local), Linux (local), Android (móvil), iPhone (móvil), iPad (móvil)
+
+
 ## Instalación, Uso y Configuración de la Herramienta Spicework, también veremos la Creación, gestión de Tickets o Reportes.
 
 Lo primero será ir a la página principal de **Spicework** para registrarnos y descargar la aplicaión de escritorio.
