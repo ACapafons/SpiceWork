@@ -95,5 +95,7 @@ Nosotros buscariamos la averia o simplemente avisariamos de la correccion del pr
 ![20](https://user-images.githubusercontent.com/90779690/173945066-77df4e2f-09a5-4037-aba5-82379f04ee44.png)
 
 Finalmente como veriamos se nos queda un resguardo del principio de la incidencia con el reporte de la empresa reportando la averia y el reporte del soporte tecnico avisando de la resolucion del problema a la empresa.
-![21](https://user-images.githubusercontent.com/90779690/173946724-5bf8f5aa-a020-4c71-b30c-5f22627abf65.png)
+
+![21](https://user-images.githubusercontent.com/90779690/174396770-019cab52-abdb-467a-a696-e9a2706a313b.png)
+
 ![22](https://user-images.githubusercontent.com/90779690/173945084-831859ce-915d-4830-af69-aedd1cedfc37.png)
