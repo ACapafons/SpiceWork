@@ -98,4 +98,6 @@ Finalmente como veriamos se nos queda un resguardo del principio de la incidenci
 
 ![21](https://user-images.githubusercontent.com/90779690/174396770-019cab52-abdb-467a-a696-e9a2706a313b.png)
 
+Aquí podemos ver que el caso ha sido solucionado.
+
 ![22](https://user-images.githubusercontent.com/90779690/173945084-831859ce-915d-4830-af69-aedd1cedfc37.png)
